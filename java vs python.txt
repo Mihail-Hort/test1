@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 Java un Python ir augsta līmeņa programmēšanas valodas
-
+=======
+>>>>>>> parent of e1fddd0 (Uzrakstīju virsrakstu)
