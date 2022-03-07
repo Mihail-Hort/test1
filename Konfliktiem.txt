@@ -1,4 +1,4 @@
 Šajā datnē pārbaudīsim, kas notiek tad, kad ir konflikts.
 1. šī ir pirmā rindiņa
-2. šī ir otrā rindiņa
-3. šī ir trešā rindiņa
+2. kaut ko pamainīju
+3. es esmu šeit
